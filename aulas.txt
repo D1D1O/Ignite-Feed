@@ -1,0 +1,39 @@
+
+Componente: Header
+05:55
+
+
+Componente: Sidebar
+16:01
+
+
+Finalizando Sidebar
+12:51
+
+
+Componente: Post
+11:31
+
+
+Estilizações do Post
+10:39
+
+
+Formulário de comentários
+11:35
+
+
+Componente: Comment
+08:11
+
+
+Estilizações do Comentário
+11:03
+
+
+Componente: Avatar
+16:27
+
+
+Aplicando responsividade
+11:03
